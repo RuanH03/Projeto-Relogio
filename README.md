@@ -1,2 +1,2 @@
 # Projeto-Relogio
-📒 - Rélogio - js
+📒 - Projeto Rélogio - js
